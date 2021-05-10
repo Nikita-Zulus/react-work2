@@ -1,0 +1,11 @@
+export const SHOW_LOADER = "SHOW_LOADER";
+export const HIDE_LOADER = "HIDE_LOADER";
+export const CURR_PATH = "CURR_PATH";
+export const REQUEST_LINKS = "REQUEST_LINKS";
+export const REQUEST_DETAILS = "REQUEST_DETAILS";
+export const FETCH_LINKS = "FETCH_LINKS";
+export const FETCH_DETAILS = "FETCH_DETAILS";
+export const SHOW_ALERT = "SHOW_ALERT";
+export const HIDE_ALERT = "HIDE_ALERT";
+export const ATTEMPT_FETCH_LINKS = "ATTEMPT_FETCH_LINKS";
+export const ATTEMPT_FETCH_DETAILS = "ATTEMPT_FETCH_DETAILS";
